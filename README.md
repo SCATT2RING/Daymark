@@ -1,2 +1,3 @@
 # Daymark
-Track your daily habits and fix routines.
+
+A local-first, distraction-free habit tracker with visual streak heatmaps and offline analytics.
